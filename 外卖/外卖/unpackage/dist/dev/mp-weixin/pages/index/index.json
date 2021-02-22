@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "美团外卖",
+  "navigationBarBackgroundColor": "#ffd300",
+  "usingComponents": {
+    "search": "/components/Search",
+    "preference": "/components/Preference",
+    "title": "/components/Title",
+    "delicacy": "/components/Delicacy",
+    "takeout": "/components/Takeout"
+  }
+}

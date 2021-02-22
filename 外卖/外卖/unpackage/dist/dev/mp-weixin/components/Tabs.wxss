@@ -1,0 +1,21 @@
+
+.ordering {
+	margin: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.ordering text {
+	margin-right: 60rpx;
+	display: block;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 33rpx;
+	color: #666666;
+}
+.activetext {
+	color: #333333 !important;
+	font-weight: bold !important;
+	border-bottom: 5rpx solid #ffd161;
+}
+

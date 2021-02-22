@@ -1,0 +1,68 @@
+/* 首页列表页 */
+.content-view text {
+	display: block;
+}
+
+.content-view {
+	display: flex;
+	justify-content: space-between;
+	height: 200rpx !important;
+	overflow: hidden;
+	border-bottom: 1rpx solid #E4E8EB;
+	padding-bottom: 5rpx;
+	margin: 30rpx 0;
+	color: #898989;
+}
+
+.content-img {
+	width: 350rpx !important;
+	height: 200rpx !important;
+}
+
+.content-img image {
+	width: 100%;
+	height: 100%;
+	border-radius: 10rpx;
+}
+
+.content-title {
+	width: 100%;
+	padding-left: 10rpx;
+	font-size: 24rpx;
+}
+
+.conteng-take {
+	color: #333333;
+	height: 50rpx;
+	font-size: 33rpx;
+	font-weight: bold;
+	line-height: 50rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+
+.conteng-monthly {
+	display: flex;
+	justify-content: space-between;
+	height: 50rpx;
+	line-height: 50rpx;
+}
+
+.conteng-starting {
+	display: flex;
+	align-items: center;
+	height: 50rpx;
+	line-height: 50rpx;
+}
+
+.conteng-starting text {
+	width: 130rpx;
+}
+
+.conteng-starting image {
+	width: 24rpx;
+	height: 24rpx;
+	padding-right: 10rpx;
+}

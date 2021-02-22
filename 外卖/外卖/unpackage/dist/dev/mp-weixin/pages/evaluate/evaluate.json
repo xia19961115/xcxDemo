@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "h-mmessages": "/common/HM-messages/HM-messages"
+  }
+}

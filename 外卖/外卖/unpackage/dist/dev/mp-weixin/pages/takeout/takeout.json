@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "下单",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ffd300",
+  "usingComponents": {
+    "business": "/components/Business",
+    "tabs": "/components/Tabs",
+    "ordering": "/components/Ordering",
+    "message": "/components/Message",
+    "introduce": "/components/Introduce"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "h-mmessages": "/common/HM-messages/HM-messages"
+  }
+}
